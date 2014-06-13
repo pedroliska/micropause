@@ -1,0 +1,17 @@
+C:\code\micropause\00-code\MicroPause\bin\Debug\MicroPause.exe.config
+C:\code\micropause\00-code\MicroPause\bin\Debug\resources\pause.ico
+C:\code\micropause\00-code\MicroPause\bin\Debug\MicroPause.exe
+C:\code\micropause\00-code\MicroPause\bin\Debug\MicroPause.pdb
+C:\code\micropause\00-code\MicroPause\bin\Debug\MouseKeyboardActivityMonitor.dll
+C:\code\micropause\00-code\MicroPause\bin\Debug\MouseKeyboardActivityMonitor.xml
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause.csprojResolveAssemblyReference.cache
+C:\code\micropause\00-code\MicroPause\obj\Debug\MainWindow.baml
+C:\code\micropause\00-code\MicroPause\obj\Debug\MainWindow.g.cs
+C:\code\micropause\00-code\MicroPause\obj\Debug\App.g.cs
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause_Content.g.cs
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause_MarkupCompile.cache
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause.g.resources
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause.Properties.Resources.resources
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause.csproj.GenerateResource.Cache
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause.exe
+C:\code\micropause\00-code\MicroPause\obj\Debug\MicroPause.pdb

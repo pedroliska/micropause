@@ -1,0 +1,16 @@
+C:\code\micropause\Attempt1\Attempt1\bin\Debug\Attempt1.exe.config
+C:\code\micropause\Attempt1\Attempt1\bin\Debug\Attempt1.exe
+C:\code\micropause\Attempt1\Attempt1\bin\Debug\Attempt1.pdb
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\MainWindow.baml
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\MainWindow.g.cs
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\App.g.cs
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\Attempt1_MarkupCompile.cache
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\Attempt1.g.resources
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\Attempt1.Properties.Resources.resources
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\Attempt1.csproj.GenerateResource.Cache
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\Attempt1.exe
+C:\code\micropause\Attempt1\Attempt1\obj\Debug\Attempt1.pdb
+c:\code\micropause\Attempt1\Attempt1\obj\Debug\Attempt1_Content.g.cs
+c:\code\micropause\Attempt1\Attempt1\bin\Debug\MouseKeyboardActivityMonitor.dll
+c:\code\micropause\Attempt1\Attempt1\bin\Debug\MouseKeyboardActivityMonitor.xml
+c:\code\micropause\Attempt1\Attempt1\bin\Debug\resources\pause.ico
